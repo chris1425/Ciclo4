@@ -1,6 +1,9 @@
 {
   "name": "video5",
   "version": "0.1.0",
+  "engines": {
+    "node": "16.18.0"
+  },
   "private": true,
   "dependencies": {
     "@auth0/auth0-react": "^1.12.0",
